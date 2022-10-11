@@ -1,2 +1,2 @@
-# coursera-test
-Coursera test repository
+# SimplymadePH
+By Angelica Landicho
