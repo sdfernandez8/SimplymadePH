@@ -1,2 +1,0 @@
-# SimplymadePH
-By Angelica Landicho
